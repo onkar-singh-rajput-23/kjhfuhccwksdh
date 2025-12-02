@@ -398,7 +398,3 @@ HomeRootView
 - Features: `Packages/ixigoFlightsSDK/Sources/ixigoFlightsSDK/Features/`
 - Widgets: `Packages/ixigoFlightsSDK/Sources/ixigoFlightsSDK/Features/Home/Widgets/`
 
----
-
-*Document generated for VS Code Markdown Preview*
-
